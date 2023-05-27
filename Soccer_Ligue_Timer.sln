@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Taraftar_Timer", "Taraftar_Timer.csproj", "{1720B7C2-887C-4CBA-8E55-48535C370B50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1720B7C2-887C-4CBA-8E55-48535C370B50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1720B7C2-887C-4CBA-8E55-48535C370B50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1720B7C2-887C-4CBA-8E55-48535C370B50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1720B7C2-887C-4CBA-8E55-48535C370B50}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8380ECFD-FA7D-4A49-A785-B2D490A9CB04}
+	EndGlobalSection
+EndGlobal
